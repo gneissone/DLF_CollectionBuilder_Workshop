@@ -3,25 +3,25 @@
 
 # URL variables
 # site domain 
-url: https://www.lib.uidaho.edu
+url: https://www.clarivatevivo.com
 # location on the domain
 # e.g. /digital/hjccc
-baseurl: /demo/psychiana
+baseurl: /collection
 # CONTENTdm server url
 cdm-url: https://digital.lib.uidaho.edu
 # location of code
 source-code: https://github.com/CollectionBuilder
 
 # Site settings
-title: Collection Builder CDM Skin
+title: My Very Interesting Collection
 # header and head metadata
-tagline: Digital Collection Magic with Static Web Technologies
-description: "CollectionBuilder-CONTENTdm is a template for creating digital collection exhibits on top of existing CONTENTdm repositories. This demo features materials from the Frank B. Robinson Papers documenting Psychiana, a religion popular in the 1930s and 40s." 
+tagline: Digital Collection Magic with Statistically Revevant Web Technologies
+description: "I am doing something productive, and this site is honest proof of that."
 # Organization branding
-organization-name: "Digital Initiatives, University of Idaho Library"
+organization-name: "Web of Science Group"
 organization-link: https://www.lib.uidaho.edu/digital/
-organization-logo-banner: https://www.lib.uidaho.edu/media/digital/justdi_logo_sm.png
-organization-logo-nav: https://www.lib.uidaho.edu/media/digital/bannerlogo_allwhite.png
+organization-logo-banner: https://clarivatevivo.com/themes/wos-bootstrapped/images/Clarivate-vivo-logo.png
+organization-logo-nav: https://clarivatevivo.com/themes/wos-bootstrapped/images/Clarivate-vivo-logo.png
 
 # Collection settings
 # contentdm collection name 
